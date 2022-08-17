@@ -3,9 +3,11 @@ body {
 }
 
 #banner {
+	width: 100%;
+}
 
 h1 {
-	text-align: center;
+	text-align: center
 }
 
 p {
@@ -13,9 +15,14 @@ p {
 }
 
 #missao {
-    font-size: 20px
+	font-size: 20px
 }
 
 em strong {
-    color: #FF0000;
+	color: #FF0000;
+}
+
+.intens { 
+      font-style: italic
+
 }
